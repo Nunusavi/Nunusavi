@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nunusavi
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Computer  Science
-- 💞️ I’m looking to collaborate on database manegment 
+- 💞️ I’m looking to collaborate on database management 
 - 📫 How to reach me Nathanmesfin0570@gmail.com
 
 <!---
