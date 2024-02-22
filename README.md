@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Nunusavi
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Computer  Science
-- 💞️ I’m looking to collaborate on database management 
-- 📫 How to reach me Nathanmesfin0570@gmail.com
+- 💞️ Backend Dev C# PHP C++ Python 
+- 📫 Wanto to Collab 👇
+t.me/nunusavij or Nathanmesfin919@gmail.com
 
 <!---
 Nunusavi/Nunusavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
