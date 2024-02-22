@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nunusavi
-- 👀 I’m interested in web development 
+- 👀 Interested in Web app & Data analytics 
 - 🌱 I’m currently learning Computer  Science
 - 💞️ Backend Dev C# PHP C++ Python 
 - 📫 Wanto to Collab 👇
