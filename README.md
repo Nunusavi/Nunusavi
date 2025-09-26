@@ -53,8 +53,8 @@
 ### 📊 GitHub Snapshot
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nunusavi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nunusavi&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nunusavi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nunusavi&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@
 
 ### 🧪 Learning Style
 
-- Build → Break → Refactor
+- Build → Break → Refactor -> Optimize
 - Start minimal, then layer features intentionally
 - Write code that explains itself
 - Prefer experiments over premature abstractions
