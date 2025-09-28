@@ -50,19 +50,6 @@
 
 ---
 
-### 📊 GitHub Snapshot
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nunusavi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nunusavi&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nunusavi&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ### 🧪 Learning Style
 
 - Build → Break → Refactor -> Optimize
