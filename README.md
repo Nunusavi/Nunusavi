@@ -28,6 +28,8 @@
 > Want more depth? I can expand with diagrams or implementation notes—just ask.
 
 ---
+<figure><embed src="https://wakatime.com/share/@018d7a26-6b85-4766-b951-972c1c324981/072ad690-2f79-4a7c-a125-4e9c961c3a81.svg"></embed></figure>
+---
 
 ### 🧠 Current Focus
 
