@@ -107,7 +107,6 @@ Open a discussion or issue—happy to iterate.
 - natemes.com
 - LinkedIn: https://www.linkedin.com/in/nathan-mesfin-62bb09233/
 - GitHub Issues
-- (Add your preferred contact: email, LinkedIn, etc.)
 
 ---
 
