@@ -104,7 +104,7 @@ Open a discussion or issue—happy to iterate.
 - Email: nathanmesfin919@gmail.com
 - Telegram: https://t.me/NunusaviV2
 - Phone: +251-939-902-685
-- natemes.com
+- [My Portfolio page](https://nate.et)
 - LinkedIn: https://www.linkedin.com/in/nathan-mesfin-62bb09233/
 - GitHub Issues
 
